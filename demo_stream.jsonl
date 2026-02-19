@@ -1,0 +1,5 @@
+{"action":"submit","order":{"id":"s1","type":"LIMIT","side":"sell","price":10.0,"quantity":100,"timestamp":0,"user_id":"u1","symbol":"TST"}}
+{"action":"submit","order":{"id":"b1","type":"LIMIT","side":"buy","price":10.0,"quantity":100,"timestamp":1,"user_id":"u2","symbol":"TST"}}
+{"action":"submit","order":{"id":"s2","type":"LIMIT","side":"sell","price":11.0,"quantity":200,"timestamp":2,"user_id":"u3","symbol":"TST"}}
+{"action":"submit","order":{"id":"mb1","type":"MARKET","side":"buy","price":null,"quantity":250,"timestamp":3,"user_id":"u4","symbol":"TST"}}
+{"action":"cancel","order_id":"s2","timestamp":4}
